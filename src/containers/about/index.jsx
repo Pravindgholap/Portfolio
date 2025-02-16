@@ -22,11 +22,11 @@ const personalDetails = [
     },
     {
         label : "Email",
-        value : "pravingholap9110@gmail.com",
+        value : "pravXXXXXlap9110@gmail.com",
     },
     {
         label : "Contact No.",
-        value : "+91 9076169110",
+        value : "+91 XXXXXXXXXX",
     },
 ]
 
